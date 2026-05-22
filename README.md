@@ -11,7 +11,6 @@ while(alive){
 
 🎓 CSE @ IIT Indore  
 🧠 ML Engineer @ DivAIne.io  
-📢 President — Debating Society, IIT Indore  
 ⚡ Building AI systems that reason, defend, detect, predict, and occasionally outperform benchmarks.
 
 ---
@@ -19,11 +18,8 @@ while(alive){
 ## 🚀 currently cooking
 
 - multimodal reasoning systems
-- real-time market intelligence agents
-- cybersecurity + deepfake detection pipelines
-- decentralized systems on Ethereum
+- real-time intelligence agents
 - RAG architectures with agentic workflows
-- arguments in debate rooms and GitHub issues alike
 
 ---
 
@@ -32,12 +28,10 @@ while(alive){
 I like building systems that sit at the intersection of:
 
 - AI × reasoning
-- finance × prediction
-- cybersecurity × trust
-- speech × multimodal learning
-- blockchain × decentralization
+- accuracy × prediction
+- speech × voice × multimodal learning
 
-Somewhere between training transformers, optimizing gas fees, and arguing policy motions, I discovered that I enjoy solving hard problems under pressure.
+Somewhere between training transformers to getting attention, I discovered that I enjoy solving hard problems under pressure.
 
 Also yes, my Codeforces handle is literally:
 
@@ -84,16 +78,20 @@ Built under :contentReference[oaicite:0]{index=0}.
 
 ## 📚 research
 
-### AUREXA-SE — Audio-Visual Unified Representation Exchange Architecture
-📄 Published at :contentReference[oaicite:1]{index=1}
+### AUREXA-SE — Audio-Visual Unified Representation Exchange Architecture for Speech Enhancement
 
-Researching multimodal speech enhancement using:
-- cross-attention
-- squeezeformers
+📄 Published at the AVSEC Challenge 2025, alongside :contentReference[oaicite:0]{index=0}.
+
+Research focused on multimodal speech enhancement using:
+- cross-attention mechanisms
+- squeezeformer architectures
 - audio-visual representation exchange
+- robust noisy speech reconstruction
 
-🔗 Paper: :contentReference[oaicite:2]{index=2}  
-🔗 arXiv: :contentReference[oaicite:3]{index=3}
+Built at the intersection of speech processing, deep learning, and multimodal reasoning — because sometimes audio alone just isn’t enough.
+
+🔗 Paper: https://doi.org/10.21437/AVSEC.2025-13  
+🔗 arXiv: https://doi.org/10.48550/arXiv.2510.05295
 
 ---
 
@@ -124,19 +122,7 @@ React • Express • REST APIs • Foundry • IPFS
 - 🥈 Smart City Hackathon
 - 🥉 IITISoC ML Domain
 - 🏛 INTERSPEECH 2025 Publication
-- 🎤 5th Place — Inter IIT Cultural Meet Debating
 - ⚔️ Codeforces Specialist — `1521`
-
----
-
-## 🎙 leadership
-
-Currently:
-- President — Debating Society, IIT Indore
-- Social Media Head — Cultural Council
-- Head of Guest Relations — E-Summit 2025
-
-Apparently I enjoy handling both distributed systems *and* distributed humans.
 
 ---
 
@@ -150,9 +136,8 @@ Apparently I enjoy handling both distributed systems *and* distributed humans.
 
 ## 🌐 find me here
 
-- 💼 LinkedIn: YOUR_LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/sanskriti-jain-000588319/
 - 📫 Email: sansjain23.11@gmail.com
-- 💻 GitHub: YOUR_GITHUB
 
 ---
 
