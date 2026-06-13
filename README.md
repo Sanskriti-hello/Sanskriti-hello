@@ -122,15 +122,7 @@ React • Express • REST APIs • Foundry • IPFS
 - 🥈 Smart City Hackathon
 - 🥉 IITISoC ML Domain
 - 🏛 INTERSPEECH 2025 Publication
-- ⚔️ Codeforces Specialist — `1521`
-
----
-
-## 📊 github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+- ⚔️ Codeforces Expert
 
 ---
 
